@@ -82,6 +82,8 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 - **Email:** 
 ![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Email&logoColor=white)
+- **Instagram:** 
+![Instagram](https://img.shields.io/badge/Instagram-EA4335?style=for-the-badge&logo=Instagram&logoColor=white)
 
 ---
 
