@@ -46,16 +46,16 @@
 
 - **Java Technologies:** JDBC, Servlet, JSP
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=F7DF1E)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=F7DF1E)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=F7DF1E)
+![JDBC](https://img.shields.io/badge/JDBC-FF2D20?style=for-the-badge&logo=JDBC&logoColor=F7DF1E)
+![Servlet](https://img.shields.io/badge/Servlet-FF2D20?style=for-the-badge&logo=Servlet&logoColor=F7DF1E)
+![JSP](https://img.shields.io/badge/JSP-FF2D20?style=for-the-badge&logo=JSP&logoColor=F7DF1E)
 
 
 - **Creative Skills:** Graphic Design, Video Editing, Animation
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=F7DF1E)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=F7DF1E)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=F7DF1E)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=F7DF1E)
+![Adobe Premier Pro](https://img.shields.io/badge/Adobe-Premier-Pro-9999FF?style=for-the-badge&logo=Adobe-Premier-Pro&logoColor=F7DF1E)
+![Adobe After Efects](https://img.shields.io/badge/Adobe-After-Efects-9999FF?style=for-the-badge&logo=Adobe-After-Efects&logoColor=F7DF1E)
 
 
 ### 🚀 Projects
