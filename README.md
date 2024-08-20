@@ -40,11 +40,22 @@
 
 - **Database Management:** MySQL, MongoDB
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=F7DF1E)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=F7DF1E)
+
 
 - **Java Technologies:** JDBC, Servlet, JSP
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=F7DF1E)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=F7DF1E)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=F7DF1E)
+
 
 - **Creative Skills:** Graphic Design, Video Editing, Animation
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=F7DF1E)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=F7DF1E)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=F7DF1E)
 
 
 ### 🚀 Projects
