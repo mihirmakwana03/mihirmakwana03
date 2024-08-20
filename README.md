@@ -81,7 +81,7 @@
 - **GitHub:** [mihirmakwana03](github.com/mihirmakwana03)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 - **Email:** [mihirpmakwana786@gmail.com](mailto:mihirpmakwana786@gmail.com)
-![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ---
 
