@@ -68,10 +68,9 @@
 ---
 
 ### 🌟 Interests
-- **Tech Enthusiast:** Full Stack Web Development, Data Science
+- **Tech Enthusiast:** Full Stack Web Development, AI & ML, Data Science
 - **Exploration:** History, Politics, Geopolitics, Space & Astronomy
 - **Creative Pursuits:** Music, Video Editing & Graphic Designing
-- **Community Engagement:** Volunteering
 
 ---
 
