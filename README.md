@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mihir Makwana!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> Hello, I'm Mihir Makwana!
 
 **Aspiring Full Stack Developer | MCA Student | Polymath**
 
