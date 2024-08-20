@@ -17,7 +17,7 @@
 
 - **Languages:**
 
-![java](https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=java&logoColor=white)
+![java](https://img.shields.io/badge/java-EB3536?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
@@ -46,9 +46,9 @@
 
 - **Java Technologies:** JDBC, Servlet, JSP
 
-![JDBC](https://img.shields.io/badge/JDBC-FF2D20?style=for-the-badge&logo=JDBC&logoColor=F7DF1E)
-![Servlet](https://img.shields.io/badge/Servlet-FF2D20?style=for-the-badge&logo=Servlet&logoColor=F7DF1E)
-![JSP](https://img.shields.io/badge/JSP-FF2D20?style=for-the-badge&logo=JSP&logoColor=F7DF1E)
+![JDBC](https://img.shields.io/badge/JDBC-EB3536?style=for-the-badge&logo=JDBC&logoColor=F7DF1E)
+![Servlet](https://img.shields.io/badge/Servlet-EB3536?style=for-the-badge&logo=Servlet&logoColor=F7DF1E)
+![JSP](https://img.shields.io/badge/JSP-EB3536?style=for-the-badge&logo=JSP&logoColor=F7DF1E)
 
 
 - **Creative Skills:** Graphic Design, Video Editing, Animation
