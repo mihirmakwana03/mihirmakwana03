@@ -77,7 +77,7 @@
 
 ### 📫 Let's Connect!
 - **LinkedIn:** 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](linkedin.com/in/mihir-makwana-a098a21b7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mihir-makwana-a098a21b7/)
 - **GitHub:** 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 - **Email:** 
