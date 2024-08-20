@@ -4,9 +4,9 @@
 
 ## 🚀 About Me
 
-🎓 I am Mihir Makwana, an Aspiring Full Stack Developer currently pursuing a Master of Computer Applications (MCA) at ISTAR College, with a strong foundation in programming, web development, and software engineering. I am passionate about creating innovative software solutions and constantly learning new technologies to expand my skill set.
+🎓 I am Mihir Makwana, an Aspiring **Full Stack Developer** currently pursuing a Master of Computer Applications (MCA) at ISTAR College, with a strong foundation in programming, web development, and software engineering. I am passionate about creating innovative software solutions and constantly learning new technologies to expand my skill set.
 
-👨‍💻 My journey in tech has been diverse and dynamic. I have designed and developed several projects, including a Yoga Website, an E-Commerce platform, and an Online Job Portal. These projects have given me hands-on experience with technologies like HTML, CSS, JavaScript, PHP, Java, and MySQL. I am also deeply interested in the fields of history, politics, geopolitics, and space, which enrich my understanding of the world and inspire my work in technology.
+👨‍💻 My journey in tech has been diverse and dynamic. I have designed and developed several projects, including a **Yoga Website**, an **E-Commerce platform**, and an **Online Job Portal**. These projects have given me hands-on experience with technologies like HTML, CSS, JavaScript, PHP, Java, and MySQL. I am also deeply interested in the fields of history, politics, geopolitics, and space 🛰, which enrich my understanding of the world and inspire my work in technology.
 
 🎸 Beyond the technical realm, I am a polymath who enjoys exploring a wide range of interests. I play the guitar, engage in team sports like cricket and football, and have a passion for digital art and design. My love for continuous learning extends to public speaking, cognitive science, and even the philosophical aspects of technology.
 
