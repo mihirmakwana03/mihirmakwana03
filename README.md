@@ -78,8 +78,11 @@
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mihir-makwana-a098a21b7/)
+
 [![github](https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mihirmakwana03)
+
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mihirpmakwana786@gmail.com)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mihir_makwana_03)
 
 ---
