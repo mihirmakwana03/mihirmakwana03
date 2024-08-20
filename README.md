@@ -83,7 +83,7 @@
 - **Email:** 
 ![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Email&logoColor=white)
 - **Instagram:** 
-![Instagram](https://img.shields.io/badge/Instagram-EA4335?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
 
 ---
 
