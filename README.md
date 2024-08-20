@@ -76,13 +76,13 @@
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** 
+<!--LinkedIn  -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mihir-makwana-a098a21b7/)
-- **GitHub:** 
+<!--GitHub  -->
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-- **Email:** 
+<!--Email  -->
 ![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Email&logoColor=white)
-- **Instagram:** 
+<!--Instagram  -->
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
 
 ---
