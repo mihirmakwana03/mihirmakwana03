@@ -54,7 +54,7 @@
 - **Creative Skills:** Graphic Design, Video Editing, Animation
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=F7DF1E)
-![adobe-premier-pro](https://img.shields.io/badge/adobe_premier_pro-9999FF?style=for-the-badge&logo=adobe-premier-pro&logoColor=F7DF1E)
+![adobe-premiere-pro](https://img.shields.io/badge/adobe_premiere_pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=F7DF1E)
 ![adobe-after-effects](https://img.shields.io/badge/adobe_after_effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=F7DF1E)
 
 
