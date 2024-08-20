@@ -6,9 +6,9 @@
 
 🎓 I am Mihir Makwana, an aspiring **Full Stack Developer** currently pursuing a **Master of Computer Applications (MCA)** at [ISTAR College](http://www.istar.edu.in/), with a strong foundation in programming, web development, and software engineering. I am passionate about creating innovative software solutions and constantly learning new technologies to expand my skill set.
 
-👨‍💻 My journey in tech has been diverse and dynamic. I have designed and developed several projects, including a **Yoga Website**, an **E-Commerce Platform**, and an **Online Job Portal**. These projects have given me hands-on experience with technologies like HTML, CSS, JavaScript, PHP, Java, and MySQL. I am also deeply interested in the fields of history, politics, geopolitics, and space 🛰, which enrich my understanding of the world and inspire my work in technology.
+👨‍💻 My journey in tech has been diverse and dynamic. I have designed and developed several projects, including a **Yoga Website**, an **E-Commerce Platform**, and an **Online Job Portal**. These projects have given me hands-on experience with technologies like ***HTML, CSS, JavaScript, PHP, Java, and MySQL***. I am also deeply interested in the fields of ***history, politics, geopolitics, and space 🛰***, which enrich my understanding of the world and inspire my work in technology.
 
-🎸 Beyond the technical realm, I am a polymath who enjoys exploring a wide range of interests. I love to listen to music 🎧, engage in team sports like cricket 🏏, kabaddi, and chess ♟, and have a passion for digital art and design. My love for continuous learning extends to cognitive science and even the philosophical aspects of technology.
+🎸 Beyond the technical realm, I am a polymath who enjoys exploring a wide range of interests. I love to listen to ***music 🎧***, engage in team sports like ***cricket 🏏, kabaddi, and chess ♟***, and have a passion for digital art and design. My love for continuous learning extends to cognitive science and even the philosophical aspects of technology.
 
 ### 🛠️ Tech Stack & Skills
 
