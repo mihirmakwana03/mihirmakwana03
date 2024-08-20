@@ -14,7 +14,7 @@
 
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** Java, Python, C++, R
+- **Languages:**
 ![JAVA](https://img.shields.io/badge/JAVA-3776AB?style=for-the-badge&logo=JAVA&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=C++&logoColor=white)
