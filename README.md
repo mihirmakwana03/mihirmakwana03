@@ -76,10 +76,12 @@
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [LinkedIn Profile](linkedin.com/in/mihir-makwana-a098a21b7/)
+- **LinkedIn:** [Mihir Makwana](linkedin.com/in/mihir-makwana-a098a21b7/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=GitHub&logoColor=white)
+- **GitHub:** [mihirmakwana03](github.com/mihirmakwana03)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-- **GitHub:** [GitHub Profile](github.com/mihirmakwana03)
-- **Email:** [Email Address](mailto:mihirpmakwana786@gmail.com)
+- **Email:** [mihirpmakwana786@gmail.com](mailto:mihirpmakwana786@gmail.com)
+![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ---
 
