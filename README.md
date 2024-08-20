@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Mihir Makwana!
 
 **Aspiring Full Stack Developer | MCA Student | Polymath**
 
@@ -40,15 +40,6 @@
   
 ---
 
-### 📜 Certifications
-- **Java Database Connectivity (JDBC) Introduction** - Coursera
-- **Introduction to Artificial Intelligence (AI)** - IBM, Coursera
-- **JavaScript and jQuery From Scratch** - Eduonix
-- **Java** - Great Learning
-- **C++ Course** - Great Learning
-
----
-
 ### 🏆 Achievements
 - **1st Place, Poster Presentation Competition - IGNITE, CHARUSAT**  
   *Presented "DevOps in Real Life," showcasing how DevOps improves bug resolution and reduces response time in software development.*
@@ -85,9 +76,9 @@
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [Your GitHub Profile](#)
-- **Email:** [Your Email Address](mailto:your-email@example.com)
+- **LinkedIn:** [LinkedIn Profile](linkedin.com/in/mihir-makwana-a098a21b7/)
+- **GitHub:** [GitHub Profile](github.com/mihirmakwana03)
+- **Email:** [Email Address](mailto:mihirpmakwana786@gmail.com)
 
 ---
 
