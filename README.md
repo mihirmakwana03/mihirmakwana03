@@ -14,21 +14,30 @@
 
 
 ### 🛠️ Tech Stack & Skills
+
 - **Languages:**
+
 ![JAVA](https://img.shields.io/badge/JAVA-3776AB?style=for-the-badge&logo=JAVA&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=C++&logoColor=white)
-![R](https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=R&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 
-- **Web Development:** HTML, CSS, JavaScript, PHP
-![HTML5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=HTML5&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=CSS3&logoColor=F7DF1E)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=PHP&logoColor=F7DF1E)
+- **Web Development:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=F7DF1E)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=F7DF1E)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=F7DF1E)
 
 - **Frameworks & Libraries:** jQuery, Node.js, React, Laravel
+
+
 - **Database Management:** MySQL, MongoDB
+
+
 - **Java Technologies:** JDBC, Servlet, JSP
+
+
 - **Creative Skills:** Graphic Design, Video Editing, Animation
 
 
