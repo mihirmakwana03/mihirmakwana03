@@ -117,7 +117,7 @@
 ## 📈 Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mihirmakwana03&row=1&column=5&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mihirmakwana03&row=1&column=4&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=mihirmakwana03&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
     <br />
@@ -128,7 +128,7 @@
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://mihir-makwana.me/)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=flat-square&logo=Google-chrome&logoColor=white)](https://mihir-makwana.me/)
 
 [![GitHub](https://img.shields.io/github/followers/mihirmakwana03?label=Follow%20Me&style=social)](https://github.com/mihirmakwana03)
 
