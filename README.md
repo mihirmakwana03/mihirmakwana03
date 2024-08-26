@@ -10,7 +10,9 @@
 
 🎸 Beyond the technical realm, I am a polymath who enjoys exploring a wide range of interests. I love to listen to ***music 🎧***, engage in team sports like ***cricket 🏏, kabaddi, and chess ♟***, and have a passion for digital art and design. My love for continuous learning extends to cognitive science and even the philosophical aspects of technology.
 
-### 🛠️ Tech Stack & Skills
+---
+
+## 🛠️ Tech Stack & Skills
 
 - **Languages:**
 
@@ -64,7 +66,9 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
-### 🚀 Projects
+---
+
+## 🚀 Projects
 
 - **[Yoga Website](https://github.com/mihirmakwana03/Yoga-Website-PHP.git)**  
 	*A comprehensive platform for yoga enthusiasts, featuring user registration, class booking, free trials, and diet/nutrition guidance, with an admin module.*  
@@ -78,7 +82,9 @@
 	*A fully functional e-commerce site allowing users to browse products, make purchases, and view their purchase history.*  
 	**Technologies:** HTML, CSS, JavaScript, PHP, MySQL
 
-### 🎓 Education
+---
+
+## 🎓 Education
 
 - **Master of Computer Applications (MCA)**  
 	*ISTAR College, Anand, Gujarat | 06/2023 - Present*  
@@ -90,7 +96,7 @@
 	
 ---
 
-### 🏆 Achievements
+## 🏆 Achievements
 
 - **🥇 1st Place, Poster Presentation Competition - IGNITE, CHARUSAT**  
 	*Presented "DevOps in Real Life," showcasing how DevOps improves bug resolution and reduces response time in software development.*
@@ -100,7 +106,7 @@
 
 ---
 
-### 🌟 Interests
+## 🌟 Interests
 
 - **Tech Enthusiast:** Full Stack Web Development, AI & ML, Data Science
 - **Exploration:** History, Politics, Geopolitics, Space & Astronomy
@@ -108,7 +114,21 @@
 
 ---
 
-### 📫 Let's Connect!
+## 📈 Stats
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mihirmakwana03&row=1&column=5&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=mihirmakwana03&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=mihirmakwana03.mihirmakwana03" alt="visitors">
+</div>
+
+---
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://mihir-makwana.me/)
 
 [![GitHub](https://img.shields.io/github/followers/mihirmakwana03?label=Follow%20Me&style=social)](https://github.com/mihirmakwana03)
 
