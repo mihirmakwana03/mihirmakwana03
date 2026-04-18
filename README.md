@@ -1,105 +1,44 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> Hello, I'm Mihir Makwana!
+<!-- Banner (optional) — you can upload the LinkedIn banner JPEG we made to your mihirmakwana03 repo and link it here -->
 
-**Aspiring Full Stack Developer | MCA Student | Polymath**
+# Hi, I'm Mihir 👋
 
-## 🚀 About Me
+**MSc Artificial Intelligence @ Kingston University, London**
+Computer Vision · Deep Learning · Applied ML — currently seeking AI/ML internships in the UK.
 
-🎓 I am Mihir Makwana, an aspiring **Full Stack Developer** currently pursuing a **Master of Computer Applications (MCA)** at [ISTAR College](http://www.istar.edu.in/), with a strong foundation in programming, web development, and software engineering. I am passionate about creating innovative software solutions and constantly learning new technologies to expand my skill set.
-
-👨‍💻 My journey in tech has been diverse and dynamic. I have designed and developed several projects, including a **Yoga Website**, an **E-Commerce Platform**, and an **Online Job Portal**. These projects have given me hands-on experience with technologies like ***HTML, CSS, JavaScript, PHP, Java, and MySQL***. I am also deeply interested in the fields of ***history, politics, geopolitics, and space 🛰***, which enrich my understanding of the world and inspire my work in technology.
-
-🎸 Beyond the technical realm, I am a polymath who enjoys exploring a wide range of interests. I love to listen to ***music 🎧***, engage in team sports like ***cricket 🏏, kabaddi, and chess ♟***, and have a passion for digital art and design. My love for continuous learning extends to cognitive science and even the philosophical aspects of technology.
+I come from a full-stack background (MERN, Laravel) and am now focused on taking ML models from notebook to deployed product. My recent work spans face recognition with FaceNet, transfer learning on medical imaging (OrganSMNIST), and classical ML on imbalanced datasets.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🔭 What I'm working on
 
-- **Languages:**
-
-![Java](https://img.shields.io/badge/Java-EB3536?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
-
-- **Web Development:**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
-
-- **Frameworks & Libraries:**
-
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-- **Database Management:**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-- **Java Technologies:**
-
-![JDBC](https://img.shields.io/badge/JDBC-EB3536?style=for-the-badge&logo=java&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet-EB3536?style=for-the-badge&logo=java&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-EB3536?style=for-the-badge&logo=java&logoColor=white)
-
-- **Development Tools:**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![WampServer](https://img.shields.io/badge/WampServer-3F3F3F?style=for-the-badge&logo=wampserver&logoColor=pink)
-
-- **Version Control:**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-- **Creative Skills:**
-
-![Wondershare Filmora](https://img.shields.io/badge/Wondershare_Filmora-07273D?style=for-the-badge&logo=wondershare-filmora&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+- 🧠 **Smart Office Face Recognition System** — real-time face recognition with MTCNN + FaceNet/ArcFace, Streamlit demo · [repo →](https://github.com/mihirmakwana03/CV-Assignment)
+- 🩻 **Medical Image Classification (OrganSMNIST)** — MLPs, CNNs, and MobileNetV2/ResNet50 transfer learning on 224×224 CT scans
+- 📊 **Multi-class Classification on Imbalanced Data** — 8 sklearn classifiers + SMOTE + ROC-AUC benchmarking
 
 ---
 
-## 🌟 Interests
+## 🛠️ Tech Stack
 
-- **Tech Enthusiast:** Full Stack Web Development, AI & ML, Data Science
-- **Exploration:** History, Politics, Geopolitics, Space & Astronomy
-- **Creative Pursuits:** Music, Video Editing & Graphic Designing
-
----
-
-## 📈 Stats
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mihirmakwana03&row=1&column=4&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=mihirmakwana03&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=mihirmakwana03.mihirmakwana03" alt="visitors">
-</div>
+**AI / ML** &nbsp;&nbsp; `PyTorch` · `TensorFlow/Keras` · `scikit-learn` · `OpenCV` · `FaceNet` · `MTCNN` · `Streamlit` · `imbalanced-learn`
+**Languages** &nbsp;&nbsp; `Python` · `JavaScript` · `Java` · `PHP` · `SQL`
+**Web / Full-Stack** &nbsp;&nbsp; `React` · `Node.js` · `Express` · `Laravel` · `MongoDB` · `MySQL`
+**Tools** &nbsp;&nbsp; `Git` · `Jupyter` · `VS Code` · `Postman` · `Docker` (learning)
 
 ---
 
-## 🔗 Links
+## 🎓 Education
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=flat-square&logo=Google-chrome&logoColor=white)](https://mihir-makwana.me/)
-
-[![GitHub](https://img.shields.io/github/followers/mihirmakwana03?label=Follow%20Me&style=social)](https://github.com/mihirmakwana03)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mihir%20Makwana-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mihir-makwana-a098a21b7/)](https://www.linkedin.com/in/mihir-makwana-a098a21b7/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Mihir_Makwana-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mihir_makwana_03/)](https://instagram.com/mihir_makwana_03)
-
-[![Gmail](https://img.shields.io/badge/Gmail-mihirpmakwana786@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:mihirpmakwana786@gmail.com)](mailto:mihirpmakwana786@gmail.com)
+- **MSc Artificial Intelligence (with Professional Placement)** — Kingston University, London · 2026–2028
+- **MCA** — ISTAR College, Gujarat · 2023–2025 · 9.27 CGPA
+- **BCA** — SEMCOM College, Gujarat · 2020–2023 · 8.67 CGPA
 
 ---
 
-*Thank you for visiting my profile! I'm always excited to connect with like-minded individuals and explore new opportunities. Feel free to reach out!*
+## 📫 Find me
+
+[Portfolio](https://mihir-makwana.co.uk/) · [LinkedIn](https://www.linkedin.com/in/mihir-makwana-a098a21b7/) · [Email](mailto:mihirpmakwana786@gmail.com)
+
+---
+
+![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirmakwana03&show_icons=true&hide_border=true&theme=default&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirmakwana03&layout=compact&hide_border=true&hide=html,css,scss&theme=default)
